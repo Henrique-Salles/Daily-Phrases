@@ -13,6 +13,10 @@ function App() {
         <button className="category-button">Motivação</button>
         <button className="category-button">Bem Estar</button>
       </section>
+
+      <button className="phrase-button">Gerar Frase</button>
+
+      <p className="phrase">Alguma frase</p>
     </div>
   );
 }
